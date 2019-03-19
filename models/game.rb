@@ -1,5 +1,5 @@
 class Game
-  
+
   def self.run(p1, p2)
     case
       when p1 == 'paper' && p2 == 'rock'

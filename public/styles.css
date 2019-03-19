@@ -5,3 +5,9 @@ h1 {
 a {
   color: black;
 }
+
+img {
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}
